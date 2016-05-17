@@ -16,5 +16,5 @@ public class SumaTest {
 		double resultado = obj.sumas(9);
 		assertEquals("Resultado esperado: 10",10,resultado,1e-6);
 	}
-
+//Tusabesmamasitaaaaa
 }
